@@ -1,1 +1,1 @@
-# Capstone_2
+# Capstone II for the Galvanize Inc. DSI
